@@ -17,7 +17,7 @@ uses
    dxLayoutcxEditAdapters, dxLayoutControlAdapters, LMDControl,Universal;
 
 type
-  TfrmAutorizacionArsMod = class(TForm)
+  TfrmAutorizacionArsMod = class(TForm)hansellocal
     dxLayoutControl1Group_Root: TdxLayoutGroup;
     dxLayoutControl1: TdxLayoutControl;
     dxLayoutControl1Group1: TdxLayoutGroup;
